@@ -36,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/react-chatting/react-chatting.git",
+  "author": "neo@zillinks.com <keunhey0107@gmail.com>",
+  "license": "MIT"
 }
