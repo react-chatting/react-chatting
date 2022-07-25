@@ -8,6 +8,8 @@
 
 ## Tech Requirement (Tech Stack)
 
+- Socket.io
+
 - Create-react-app
 
 - React
