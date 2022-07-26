@@ -5,7 +5,7 @@ import './App.css';
 import { useState } from "react";
 
 
-
+console.log(test)
 
 function App() {
   const [user, setUser] = useState([]);
